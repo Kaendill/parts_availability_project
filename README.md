@@ -51,6 +51,7 @@ This project was done completely in `Excel`, using:
   ![image](dashboard.png)
 - An image of the dashboard created
 - An `Excel` [workbook](final_parts_project.xlsx) consisting of different sheets of the cleaned data, the pivot tables, dashboard and changlogs.
+- A `PowerPoint` [presentation file]( that  provides a concise summary of the project’s purpose, methods, key insights, and dashboard highlights.
 
   
 ## What I Learned
