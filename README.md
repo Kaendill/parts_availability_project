@@ -33,6 +33,7 @@ This project was done completely in `Excel`, using:
   - Standardized part names and VIN formats.
 - **Data Analysis**:
   - Pivotable tables were used to group parts by frequency, car model, and year.
+  - A category had the highest order but declined over the years, so it was filtered out, this also happened with a part (outlier)
   - Created summary tables to track part demand over time.
 - **Dashboard**:
   - Built with Excel charts and slicers.
