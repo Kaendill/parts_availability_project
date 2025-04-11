@@ -48,8 +48,10 @@ This project was done completely in `Excel`, using:
 
 ## Files Included
 
-- An `Excel` workbook consisting of different sheets of the cleaned data, the pivot tables, dashboard and changlogs
-- ![An image of the dashboard created](dashboard.png)
+  ![image](dashboard.png)
+- An image of the dashboard created
+- An `Excel` workbook consisting of different sheets of the cleaned data, the pivot tables, dashboard and changlogs.
+
   
 ## What I Learned
 
