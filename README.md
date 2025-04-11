@@ -49,7 +49,7 @@ This project was done completely in `Excel`, using:
 ## Files Included
 
 - An `Excel` workbook consisting of different sheets of the cleaned data, the pivot tables, dashboard and changlogs
-- An image of the dashboard created.
+- ![An image of the dashboard created](dashboard.png)
   
 ## What I Learned
 
