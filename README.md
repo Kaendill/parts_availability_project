@@ -50,7 +50,7 @@ This project was done completely in `Excel`, using:
 
   ![image](dashboard.png)
 - An image of the dashboard created
-- An `Excel` workbook consisting of different sheets of the cleaned data, the pivot tables, dashboard and changlogs.
+- An `Excel` [workbook](final_parts_project.xlsx) consisting of different sheets of the cleaned data, the pivot tables, dashboard and changlogs.
 
   
 ## What I Learned
