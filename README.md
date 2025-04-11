@@ -50,7 +50,7 @@ This project was done completely in `Excel`, using:
 
   ![image](parts_availability_dashboard.png)
 - An image of the dashboard created
-- An `Excel` [workbook](final_parts_project.xlsx) consisting of different sheets of the cleaned data, the pivot tables, dashboard and changlogs.
+- An `Excel` [workbook](Excel_workbook.xlsx) consisting of different sheets of the cleaned data, the pivot tables, dashboard and changlogs.
 - A `PowerPoint` [presentation file](Parts_availability_project.pptx) that  provides a concise summary of the project’s purpose, methods, key insights, and dashboard highlights.
 
   
